@@ -1,2 +1,0 @@
-# ValorantCRC
-Custom Reticle
